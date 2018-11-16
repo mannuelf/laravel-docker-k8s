@@ -53,12 +53,12 @@ Now run the following command for Pushing image in docker registry.In the comman
 Modify command according to your docker id, repository name and tag name.
 
 ```
-docker tag laravel:v4 docker.io/nahid35/laravel:v4
+docker tag laravel:v4 nahid35/laravel:v4
 
 ```
 
 ```
-docker push docker.io/nahid35/laravel:v4
+docker push nahid35/laravel:v4
 
 ```
 
